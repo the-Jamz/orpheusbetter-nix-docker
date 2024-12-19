@@ -26,7 +26,7 @@ let
             owner = "kibouyazetsubou";
             repo = pname;
             rev = "ee667433bbe1b812c493fb3182176cd36b43e9d8";
-            hash = "sha256-sgcBDCpIItU3sIjmehxYS7EgNpcPviOVl12cjKIyrRk=";
+            hash = "sha256-Y3JNJFmVuo5SnzFiwwhRRELmFBv5SmQH1/v6HV+RD6M=";
           };
 
           patches = [

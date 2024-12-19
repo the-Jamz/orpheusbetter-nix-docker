@@ -25,8 +25,8 @@ let
           src = pkgs.fetchFromGitHub {
             owner = "kibouyazetsubou";
             repo = pname;
-            rev = "e3e9fea721fa271621e4b3a5cbcf81e5f028f009";
-            hash = "sha256-ee667433bbe1b812c493fb3182176cd36b43e9d8=";
+            rev = "ee667433bbe1b812c493fb3182176cd36b43e9d8";
+            hash = "sha256-sgcBDCpIItU3sIjmehxYS7EgNpcPviOVl12cjKIyrRk=";
           };
 
           patches = [
